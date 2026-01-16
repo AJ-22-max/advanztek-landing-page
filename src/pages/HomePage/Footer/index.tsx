@@ -309,7 +309,6 @@ const Footer: React.FC = () => {
                                 <Box
                                     key={index}
                                     component="a"
-                                    href={link.href}
                                     sx={{
                                         cursor: 'default',
                                         display: 'flex',
